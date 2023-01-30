@@ -1,0 +1,99 @@
+/* #7dd0e3 - cyan
+   #E3907D - orange
+*/
+
+
+body{
+    font-family: 'Roboto' ,sans-serif;
+    background-color: black;
+    color: #7dd0e3;
+    padding-top: 70px;
+}
+
+.heading-big{
+    justify-self: center;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: bold;
+    
+}
+
+
+
+/* ------------NavBar---------------- */
+.navbar{
+    font-size: 1.2rem;
+    z-index: 1000;
+   
+    
+    
+}
+.bg-custom{
+    background-color: #7dd0e3;
+    color: black;
+}
+
+.nav-link:hover{
+    color: #E3907D;
+    font-size: 1.25rem;
+}
+
+/* ---------Headings------------- */
+
+.heading-name{
+    font-size: 2.5rem;
+}
+
+.heading-nas{
+    font-size: 1rem;;
+}
+
+
+
+/* ---------------Sectiuni--------------- */
+
+.sec{
+    padding: 20px;
+}
+
+.img{
+    width: 300px;
+    float: left;
+    margin: 5px;
+}
+
+.para{
+    width: 100%;
+    text-align: justify;
+    font-size: 1.4rem;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-center{
+    text-align: center;
+}
+
+
+border-round 
+/* ----------Despre---------------- */
+.sec-despre{
+
+    margin-bottom: 0;
+    
+}
+
+
+
+.link{
+    text-decoration: none;
+    color:  #E3907D;
+    font-size: 1rem;
+}
+
+
+/* -----------Albert Einstein----------- */
