@@ -79,7 +79,30 @@ body{
 }
 
 
-border-round 
+.border-round{
+    border-radius: 100%;
+} 
+
+.underline{
+    text-decoration: underline;
+    text-decoration-color: #E3907D;
+    margin-bottom: 10px;
+}
+
+.height{
+    height: 100px;
+}
+
+.heading-4{
+    margin-top: 50px;
+    margin-bottom: 0;
+}
+.color-my{
+    color: white;
+}
+.margin-left{
+    margin-left: 20px;
+}
 /* ----------Despre---------------- */
 .sec-despre{
 
